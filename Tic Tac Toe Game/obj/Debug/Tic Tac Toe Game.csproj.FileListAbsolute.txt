@@ -1,0 +1,15 @@
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe.config
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.pdb
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\App.g.cs
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game_MarkupCompile.cache
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game_MarkupCompile.lref
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\MainWindow.baml
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.g.resources
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.GenerateResource.cache
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.exe
+C:\Users\Dev\source\repos\Tic-Tac-Toe-Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.pdb
